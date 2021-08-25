@@ -1,0 +1,26 @@
+.title{
+    background-color: black;
+    color: white;
+}
+
+.cloud{
+    color: cyan;
+}
+
+.projects{
+    text-align: center;
+    font-style: italic;
+    background-color: purple;
+    color: white;
+}
+
+.contact{
+    text-align: right;
+    text-decoration: underline;
+    background-color: lightblue;
+}
+
+h1, h2, h3{
+    margin:5px;
+    padding: 10px;
+}
